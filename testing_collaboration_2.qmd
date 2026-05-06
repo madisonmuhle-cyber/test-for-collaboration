@@ -1,0 +1,7 @@
+---
+title: "new qmd"
+author: "Lukas Lescano"
+format: pdf
+---
+
+
